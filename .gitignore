@@ -1,2 +1,4 @@
 # Generator script
 generator.py
+node_modules/
+backend/node_modules/
